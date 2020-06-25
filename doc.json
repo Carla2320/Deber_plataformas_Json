@@ -33,5 +33,40 @@
     "direccion": "La colmena",
     "email": "hidrovoluis@gmail.com",
     "imagen": "https://image.freepik.com/foto-gratis/personas-que-sonrie-alegre-hombres-guapos_1187-6057.jpg"
+  },
+   {
+    "id": 6,
+    "nombre": "Karina Gallegos",
+    "direccion": "San Marcos",
+    "email": "gallegsK@gmail.com",
+    "imagen": "https://www.elpais.com.co/files/article_multimedia_main_gallery/uploads/2017/12/30/5a47ede621153.jpeg"
+  },
+   {
+    "id": 7,
+    "nombre": "Jajaira Vinueza",
+    "direccion": "Puengasi",
+    "email": "jajairaV@gmail.com",
+    "imagen": "https://www.elpais.com.co/files/article_multimedia_main_gallery/uploads/2018/12/28/5c26eb513ed26.jpeg"
+  },
+   {
+    "id": 8,
+    "nombre": "Juan Pazmiño",
+    "direccion": "Amaguaña",
+    "email": "juanPazminio@hotmail.com",
+    "imagen": "https://img.culturacolectiva.com/content/2015/08/Personas-ricas-historia-Bill-Gates.jpg"
+  },
+   {
+    "id": 9,
+    "nombre": "Raul Mendez",
+    "direccion": "San Lorenzo",
+    "email": "mendez12121@hotmail.com",
+    "imagen": "https://www.churchofjesuschrist.org/bc/content/ldsorg/church/news/CN-interview-Beck-Missionary-age-policy-580.jpeg"
+  },
+   {
+    "id": 10,
+    "nombre": "Joaquin Santana",
+    "direccion": "Chimbacalle",
+    "email": "joaquinb12223@hotmail.com",
+    "imagen": "https://www.laprensa.hn/csp/mediapool/sites/dt.common.streams.StreamServer.cls?STREAMOID=4pkOizNYyGgWYGIaVJvYvc$daE2N3K4ZzOUsqbU5sYvu8VaQdpiCEdddsP3q0HJy6FB40xiOfUoExWL3M40tfzssyZqpeG_J0TFo7ZhRaDiHC9oxmioMlYVJD0A$3RbIiibgT65kY_CSDiCiUzvHvODrHApbd6ry6YGl5GGOZrs-&CONTENTTYPE=image/jpeg"
   }
 ]
